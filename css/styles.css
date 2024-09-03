@@ -1,0 +1,32 @@
+@import url(reset.css);
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+.hone {
+  color: darkgreen;
+}
+.htwo {
+  color: lime;
+}
+p {
+  color: fuchsia;
+}
+.listone {
+  margin: 0 auto;
+  text-align: center;
+  width: 150px;
+}
+h2 {
+  color: darkorchid;
+}
+.listtwo {
+  margin: 0 auto;
+  text-align: center;
+  width: 150px;
+}
